@@ -1,0 +1,50 @@
+.get-appoinment {
+    background-color: white;
+    box-shadow: 0 20px 30px 0 rgba(170, 173, 187, 0.2);
+    text-align: center;
+    margin-bottom: 25px;
+    padding: 50px 20px;
+    border: 1px solid #f8f3f3;
+    border-radius: 5px;
+}
+.name {
+    color: #1cc7c1;
+    font-size: 25px;
+    font-weight: normal;
+}
+.time {
+    font-size: 18px;
+    color: #3a4256;
+}
+.space {
+    font-size: 14px;
+    color: #8b8888;
+}
+.book-btn {
+    background-image: linear-gradient(45deg, #19d3ae, #0fcfec);
+    color: #fff;
+    margin-top: 20px;
+}
+
+.err-msg {
+    color: red;
+}
+
+/* modal */
+.modal-title {
+    margin: 0 auto;
+    color: #1cc7c1;
+}
+
+.success {
+    color: #1cc7c1;
+}
+
+.modal-footer {
+    justify-content: space-between;
+}
+
+.submit-btn {
+    background-image: linear-gradient(45deg, #19d3ae, #0fcfec);
+    color: white;
+}
